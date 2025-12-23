@@ -38,12 +38,8 @@
 - Find us at: [Official Website](https://sites.google.com/shahmeen.org/shahmeenacademy?usp=sharing)  
 - Contact: [info@sceaacademy.org](mailto:info@sceaacademy.org)
 
-<div align="right">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo-footer.png">
-  <img src="assets/images/logo-footer.png" alt="logo" width="200">
-</picture>
-</div>
+
+
 
 ---
 
@@ -52,21 +48,29 @@
 
 
 
+<div align="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assests/images/logo-footer.png">
+  <img src="assests/images/logo-footer.png" alt="logo" width="300">
+</picture>
+</div>
 
 
 
 
 
-
-
-
-
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
-
-## Build your own &lt;insert-technology-here&gt;
-
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
-
+---
 ## > *What I cannot create, Why i can't create, I do not understand — Shah Baig.*
 
 It's a great way to learn.
+---
+---
+---
+---
+---
+
+
+---
+
+
+
