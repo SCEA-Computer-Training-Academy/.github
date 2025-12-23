@@ -1,6 +1,6 @@
 <div align="center">
 
-# SCEA ACADEMY
+# 📚SCEA ACADEMY🎓
 
 
 # Computer Training Institute
@@ -8,13 +8,13 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo.jpg">
-  <img src="assets/images/logo.jpg" alt="logo" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="assests/images/logo.jpg">
+  <img src="assests/images/logo.jpg" alt="logo" width="1100">
 </picture>
 </div>
 
 
-Welcome to SCEA Computer Training Academy’s official GitHub Organization!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30"/>Welcome to SCEA Computer Training Academy’s official GitHub Organization!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30"/>
 
 
 <div align="left">
@@ -28,6 +28,7 @@ Welcome to SCEA Computer Training Academy’s official GitHub Organization!
 - **Certifications**: Preparation and resources for top IT certifications.
 - **Open Projects**: Collaborative software projects, demos, and examples for learning by doing.
 - **Community**: Engage with instructors and students in discussions, Q&A, and community events.
+- **We provide Job oriented courses.**
 
 ## 📚 Get Started
 
@@ -60,70 +61,12 @@ Welcome to SCEA Computer Training Academy’s official GitHub Organization!
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
-> *What I cannot create, I do not understand — Shah Baig.*
+## > *What I cannot create, Why i can't create, I do not understand — Shah Baig.*
 
 It's a great way to learn.
