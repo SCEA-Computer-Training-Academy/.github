@@ -8,8 +8,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assests/images/logo.jpg">
-  <img src="assests/images/logo.jpg" alt="logo" width="1100">
+  <source media="(prefers-color-scheme: dark)" srcset="assests/images/001 design.png">
+  <img src="assests/images/001 design.png" alt="logo" width="1100">
 </picture>
 </div>
 
