@@ -9,7 +9,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assests/images/001 design.png">
-  <img src="assests/images/001 design.png" alt="logo" width="1100">
+  <img src="https://github.com/SCEA-Computer-Training-Academy/.github/blob/e1a0a52cff9764a8d3004ea0d4ec55c15a16bfa4/assests/images/001%20design.png" alt="logo" width="1100">
 </picture>
 </div>
 
