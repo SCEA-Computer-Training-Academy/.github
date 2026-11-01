@@ -36,7 +36,7 @@
 - Read our course materials and guides in each repo’s README file.
 - Join the conversation in [Discussions](https://github.com/Shahbaig-6389/Fictional-Invention) or via Issues.
 - Find us at: [Official Website](https://sites.google.com/shahmeen.org/shahmeenacademy?usp=sharing)  
-- Contact: [info@sceaacademy.org](mailto:info@sceaacademy.org)
+- Contact: [admin@sceacademy.in](mailto:admin@sceaacademy.in)
 
 
 
